@@ -1,4 +1,4 @@
 github-editing-lab
 ==================
 
-testing 
+Playing around with the Github api using javascript
